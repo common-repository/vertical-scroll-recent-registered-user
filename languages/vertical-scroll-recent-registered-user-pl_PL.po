@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertical scroll recent registered user\n"
+"POT-Creation-Date: 2016-11-19 20:38+0800\n"
+"PO-Revision-Date: 2016-11-19 20:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../vertical-scroll-recent-registered-user.php:191
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: ../vertical-scroll-recent-registered-user.php:194
+msgid "Display date:"
+msgstr "Wyświetl datę wpisu"
+
+#: ../vertical-scroll-recent-registered-user.php:197
+msgid "Display image border:"
+msgstr "Wyświetlany obraz border:"
+
+#: ../vertical-scroll-recent-registered-user.php:200
+msgid "Display image:"
+msgstr "Obrazek wyróżniający wpisu"
+
+#: ../vertical-scroll-recent-registered-user.php:203
+msgid "Display number of user at the same time in scroll:"
+msgstr "Wyświetlanie liczby użytkowników w tym samym czasie w zwoju:"
+
+#: ../vertical-scroll-recent-registered-user.php:206
+msgid "Enter max number of user to display:"
+msgstr "Wpisz maksymalna liczba użytkowników na wyświetlaczu:"
+
+#: ../vertical-scroll-recent-registered-user.php:212
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../vertical-scroll-recent-registered-user.php:215
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../vertical-scroll-recent-registered-user.php:233
+#: ../vertical-scroll-recent-registered-user.php:239
+msgid "Vertical scroll recent registered user"
+msgstr "Pionowe przewijanie niedawno zarejestrowanego użytkownika"
